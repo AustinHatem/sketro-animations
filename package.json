@@ -1,6 +1,6 @@
 {
   "name": "sketro-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stunning Web Animations. Faster Than Ever.",
   "main": "index.js",
   "dependencies": {
